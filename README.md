@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Challa Jaipal Reddy]!
+# 👋 Hi there, I'm **Challa Jaipal Reddy!**
 
 🎓 **Data Analytics Student** | 💻 **Aspiring Data Scientist & Full-Stack Developer**  
 🌐 Passionate about solving real-world problems through data and technology
